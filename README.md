@@ -1,0 +1,2 @@
+# translationmgr
+Translation Manager
